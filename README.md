@@ -1,2 +1,2 @@
 # Product-Analysis
-Product Analysis using MySql
+Product Analysis using MySQL
